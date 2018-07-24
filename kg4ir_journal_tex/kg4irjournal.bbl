@@ -1,0 +1,315 @@
+\begin{thebibliography}{10}
+
+\bibitem{tinkerbell2017Tac}
+Al-Badrashiny, M., Bolton, J., Tejavsi~Chaganty, A., Clark, K., Harman, C.,
+  Huang, L., Lamm, M., Lei, J., Lu, D., Pan, X., Paranjape, A., Pavlick, E.,
+  Peng, H., Qi, P., Rastogi, P., See, A., Sun, K., Thomas, M., Tsai, C.T., Wu,
+  H., Zhang, B., Callison-Burch, C., Cardie, C., Ji, H., Manning, C., Muresan,
+  S., C.~Rambow, O., Roth, D., Sammons, M., Van~Durme, B.:
+\newblock Tinkerbell: Cross-lingual cold-start knowledge base construction.
+\newblock In: Text Analysis Conference (TAC). (2017)
+
+\bibitem{AltszylerSS16}
+Altszyler, E., Sigman, M., Slezak, D.F.:
+\newblock Comparative study of {LSA} vs word2vec embeddings in small corpora: a
+  case study in dreams database.
+\newblock CoRR \textbf{abs/1610.01520} (2016)
+
+\bibitem{auer2007dbpedia}
+Auer, S., Bizer, C., Kobilarov, G., Lehmann, J., Cyganiak, R., Ives, Z.:
+\newblock Dbpedia: A nucleus for a web of open data.
+\newblock The semantic web (2007)  722--735
+
+\bibitem{balog2009overview}
+BALOG, K.:
+\newblock Overview of the trec 2009 entity track.
+\newblock Proc. TREC2009 (2009)
+
+\bibitem{blei2003latent}
+Blei, D.M., Ng, A.Y., Jordan, M.I.:
+\newblock Latent dirichlet allocation.
+\newblock Journal of machine Learning research \textbf{3}(Jan) (2003)
+  993--1022
+
+\bibitem{bollacker2008freebase}
+Bollacker, K., Evans, C., Paritosh, P., Sturge, T., Taylor, J.:
+\newblock Freebase: A collaboratively created graph database for structuring
+  human knowledge.
+\newblock In: Proceedings of the 2008 ACM SIGMOD International Conference on
+  Management of Data, New York, NY, USA, ACM (2008)
+
+\bibitem{bouchacourt2017multi}
+Bouchacourt, D., Tomioka, R., Nowozin, S.:
+\newblock Multi-level variational autoencoder: Learning disentangled
+  representations from grouped observations.
+\newblock arXiv preprint arXiv:1705.08841 (2017)
+
+\bibitem{demartini2009overview}
+Demartini, G., Iofciu, T., De~Vries, A.P.:
+\newblock Overview of the inex 2009 entity ranking track.
+\newblock In: Proceedings of the Focused Retrieval and Evaluation, and 8th
+  International Conference on Initiative for the Evaluation of XML Retrieval.
+  INEX'09, Berlin, Heidelberg, Springer-Verlag (2010)  254--264
+
+\bibitem{ghahramani2006bayesian}
+Ghahramani, Z., Heller, K.A.:
+\newblock Bayesian sets.
+\newblock In: Advances in neural information processing systems. (2006)
+  435--442
+
+\bibitem{gottipati2011linking}
+Gottipati, S., Jiang, J.:
+\newblock Linking entities to a knowledge base with query expansion.
+\newblock In: Proceedings of the Conference on Empirical Methods in Natural
+  Language Processing, Association for Computational Linguistics (2011)
+  804--813
+
+\bibitem{He:2017:NCF:3038912.3052569}
+He, X., Liao, L., Zhang, H., Nie, L., Hu, X., Chua, T.S.:
+\newblock Neural collaborative filtering.
+\newblock In: Proceedings of the 26th International Conference on World Wide
+  Web. WWW '17, Republic and Canton of Geneva, Switzerland, International World
+  Wide Web Conferences Steering Committee (2017)  173--182
+
+\bibitem{he2011seisa}
+He, Y., Xin, D.:
+\newblock Seisa: set expansion by iterative similarity aggregation.
+\newblock In: Proceedings of the 20th international conference on World wide
+  web, ACM (2011)  427--436
+
+\bibitem{hegrishman2015demos}
+He, Y., Grishman, R.:
+\newblock Ice: Rapid information extraction customization for nlp novices.
+\newblock In: Proceedings of the 2015 Conference of the North American Chapter
+  of the Association for Computational Linguistics: Demonstrations, Denver,
+  Colorado, Association for Computational Linguistics (June 2015)  31--35
+
+\bibitem{hinton1999products}
+Hinton, G.E.:
+\newblock Products of experts.
+\newblock In: 1999 Ninth International Conference on Artificial Neural Networks
+  ICANN 99. (Conf. Publ. No. 470). Volume~1. (1999)  1--6 vol.1
+
+\bibitem{jebara2004probability}
+Jebara, T., Kondor, R., Howard, A.:
+\newblock Probability product kernels.
+\newblock Journal of Machine Learning Research \textbf{5}(Jul) (2004)  819--844
+
+\bibitem{kingma2013auto}
+Kingma, D.P., Welling, M.:
+\newblock Auto-encoding variational bayes.
+\newblock arXiv preprint arXiv:1312.6114 (2013)
+
+\bibitem{kipf2016semi}
+Kipf, T.N., Welling, M.:
+\newblock Semi-supervised classification with graph convolutional networks.
+\newblock In: Proceedings of ICLR. (2017)
+
+\bibitem{lang-henderson:2013:NAACL-HLT}
+Lang, J., Henderson, J.:
+\newblock Graph-based seed set expansion for relation extraction using random
+  walk hitting times.
+\newblock In: Proceedings of the 2013 Conference of the North American Chapter
+  of the Association for Computational Linguistics: Human Language
+  Technologies, Atlanta, Georgia, Association for Computational Linguistics
+  (June 2013)  772--776
+
+\bibitem{lee2017augmented}
+Lee, W., Song, K., Moon, I.C.:
+\newblock Augmented variational autoencoders for collaborative filtering with
+  auxiliary information.
+\newblock In: ACM Conference on Information and Knowledge Management. Number~6,
+  doi: 10.475/123 4, ACM (Nov 2017)
+
+\bibitem{levy2014dependency}
+Levy, O., Goldberg, Y.:
+\newblock Dependency-based word embeddings.
+\newblock In: Proceedings of the 52nd Annual Meeting of the Association for
+  Computational Linguistics (Volume 2: Short Papers), Baltimore, Maryland,
+  Association for Computational Linguistics (June 2014)  302--308
+
+\bibitem{lin1998automatic}
+Lin, D.:
+\newblock Automatic retrieval and clustering of similar words.
+\newblock In: Proceedings of the 17th international conference on Computational
+  linguistics-Volume 2, Association for Computational Linguistics (1998)
+  768--774
+
+\bibitem{introductionir}
+Manning, C.D., Raghavan, P., Schütze, H.:
+\newblock Introduction to Information Retrieval.
+\newblock Cambridge University Press (2008)
+
+\bibitem{metzger2014aspect}
+Metzger, S., Schenkel, R., Sydow, M.:
+\newblock Aspect-based similar entity search in semantic knowledge graphs with
+  diversity-awareness and relaxation.
+\newblock In: Web Intelligence (WI) and Intelligent Agent Technologies (IAT),
+  2014 IEEE/WIC/ACM International Joint Conferences on. Volume~1., IEEE (2014)
+  60--69
+
+\bibitem{miao2016neural}
+Miao, Y., Yu, L., Blunsom, P.:
+\newblock Neural variational inference for text processing.
+\newblock In: International Conference on Machine Learning. (2016)  1727--1736
+
+\bibitem{mikolov2013distributed}
+Mikolov, T., Sutskever, I., Chen, K., Corrado, G.S., Dean, J.:
+\newblock Distributed representations of words and phrases and their
+  compositionality.
+\newblock In: Advances in neural information processing systems. (2013)
+  3111--3119
+
+\bibitem{mitra2017neural}
+{Mitra}, B., {Craswell}, N.:
+\newblock {Neural Models for Information Retrieval}.
+\newblock ArXiv e-prints (May 2017)
+
+\bibitem{pantel-EtAl:2009:EMNLP}
+Pantel, P., Crestan, E., Borkovsky, A., Popescu, A.M., Vyas, V.:
+\newblock {Web}-scale distributional similarity and entity set expansion.
+\newblock In: Proceedings of the 2009 Conference on Empirical Methods in
+  Natural Language Processing, Singapore, Association for Computational
+  Linguistics (August 2009)  938--947
+
+\bibitem{pasca2007you}
+Pa{\c{s}}ca, M., Van~Durme, B.:
+\newblock What you seek is what you get: Extraction of class attributes from
+  query logs.
+\newblock In: IJCAI. (2007)
+
+\bibitem{pacsca2008weakly}
+Pa{\c{s}}ca, M., Van~Durme, B.:
+\newblock Weakly-supervised acquisition of open-domain classes and class
+  attributes from web documents and query logs.
+\newblock Proceedings of ACL-08: HLT (2008)  19--27
+
+\bibitem{poliak-EtAl:2017:EACLshort}
+Poliak, A., Rastogi, P., Martin, M.P., Van~Durme, B.:
+\newblock Efficient, compositional, order-sensitive n-gram embeddings.
+\newblock In: Proceedings of the 15th Conference of the European Chapter of the
+  Association for Computational Linguistics: Volume 2, Short Papers, Valencia,
+  Spain, Association for Computational Linguistics (April 2017)  503--508
+
+\bibitem{pujara2017sparsity}
+Pujara, J., Augustine, E., Getoor, L.:
+\newblock Sparsity and noise: Where knowledge graph embeddings fall short.
+\newblock In: Proceedings of the 2017 Conference on Empirical Methods in
+  Natural Language Processing, Copenhagen, Denmark, Association for
+  Computational Linguistics (September 2017)  1751--1756
+
+\bibitem{rastogi2017vertex}
+Rastogi, P., Lyzinski, V., Van~Durme, B.:
+\newblock Vertex nomination on the cold start knowledge graph.
+\newblock Technical report, Human Language Technology Center of Excellence
+  (2017)
+
+\bibitem{rehurek_lrec}
+{\v R}eh{\r u}{\v r}ek, R., Sojka, P.:
+\newblock {Software Framework for Topic Modelling with Large Corpora}.
+\newblock In: {Proceedings of the LREC 2010 Workshop on New Challenges for NLP
+  Frameworks}, Valletta, Malta, ELRA (May 2010)  45--50
+
+\bibitem{rezende2014stochastic}
+Rezende, D.J., Mohamed, S., Wierstra, D.:
+\newblock Stochastic backpropagation and approximate inference in deep
+  generative models.
+\newblock arXiv preprint arXiv:1401.4082 (2014)
+
+\bibitem{robertson2009prf}
+Robertson, S., Zaragoza, H.:
+\newblock The probabilistic relevance framework: Bm25 and beyond.
+\newblock Found. Trends Inf. Retr. \textbf{3}(4) (April 2009)  333--389
+
+\bibitem{sadamitsu-EtAl:2011:ACL-HLT2011}
+Sadamitsu, K., Saito, K., Imamura, K., Kikui, G.:
+\newblock Entity set expansion using topic information.
+\newblock In: Proceedings of the 49th Annual Meeting of the Association for
+  Computational Linguistics: Human Language Technologies, Portland, Oregon,
+  USA, Association for Computational Linguistics (June 2011)  726--731
+
+\bibitem{shen2017setexpan}
+Shen, J., Wu, Z., Lei, D., Shang, J., Ren, X., Han, J.:
+\newblock Setexpan: Corpus-based set expansion via context feature selection
+  and rank ensemble.
+\newblock In Ceci, M., Hollm{\'e}n, J., Todorovski, L., Vens, C.,
+  D{\v{z}}eroski, S., eds.: Machine Learning and Knowledge Discovery in
+  Databases, Cham, Springer International Publishing (2017)  288--304
+
+\bibitem{sonderby2016ladder}
+S{\o}nderby, C.K., Raiko, T., Maal{\o}e, L., S{\o}nderby, S.K., Winther, O.:
+\newblock Ladder variational autoencoders.
+\newblock In: Advances in neural information processing systems. (2016)
+  3738--3746
+
+\bibitem{tong2008system}
+Tong, S., Dean, J.:
+\newblock System and methods for automatically creating lists (March~25 2008)
+  US Patent 7,350,187.
+
+\bibitem{vartak2017meta}
+Vartak, M., Thiagarajan, A., Miranda, C., Bratman, J., Larochelle, H.:
+\newblock A meta-learning perspective on cold-start recommendations for items.
+\newblock In Guyon, I., Luxburg, U.V., Bengio, S., Wallach, H., Fergus, R.,
+  Vishwanathan, S., Garnett, R., eds.: Advances in Neural Information
+  Processing Systems 30.
+\newblock Curran Associates, Inc. (2017)  6907--6917
+
+\bibitem{wang2007language-independent}
+Wang, R.C., Cohen, W.W.:
+\newblock Language-independent set expansion of named entities using the web.
+\newblock In: Seventh IEEE International Conference on Data Mining (ICDM 2007).
+  (Oct 2007)  342--350
+
+\bibitem{wang2008iterative}
+Wang, R.C., Cohen, W.W.:
+\newblock Iterative set expansion of named entities using the web.
+\newblock In: 2008 Eighth IEEE International Conference on Data Mining. (Dec
+  2008)  1091--1096
+
+\bibitem{wang2009automatic}
+Wang, R.C., Cohen, W.W.:
+\newblock Automatic set instance extraction using the web.
+\newblock In: Proceedings of the Joint Conference of the 47th Annual Meeting of
+  the ACL and the 4th International Joint Conference on Natural Language
+  Processing of the AFNLP: Volume 1-Volume 1, Association for Computational
+  Linguistics (2009)  441--449
+
+\bibitem{wang-EtAl:2008:EMNLP2}
+Wang, R.C., Schlaefer, N., Cohen, W.W., Nyberg, E.:
+\newblock Automatic set expansion for list question answering.
+\newblock In: Proceedings of the 2008 Conference on Empirical Methods in
+  Natural Language Processing, Honolulu, Hawaii, Association for Computational
+  Linguistics (October 2008)  947--954
+
+\bibitem{manzil2017deep}
+Zaheer, M., Kottur, S., Ravanbakhsh, S., Poczos, B., Salakhutdinov, R.R.,
+  Smola, A.J.:
+\newblock Deep sets.
+\newblock In Guyon, I., Luxburg, U.V., Bengio, S., Wallach, H., Fergus, R.,
+  Vishwanathan, S., Garnett, R., eds.: Advances in Neural Information
+  Processing Systems 30.
+\newblock Curran Associates, Inc. (2017)  3394--3404
+
+\bibitem{zaidan-eisner-piatko-2008:nips}
+Zaidan, O., Eisner, J., Piatko, C.:
+\newblock Using “annotator rationales” to improve machine learning for text
+  categorization.
+\newblock In: Human Language Technologies 2007: The Conference of the North
+  American Chapter of the Association for Computational Linguistics;
+  Proceedings of the Main Conference. (2007)  260--267
+
+\bibitem{zhang2017entity}
+Zhang, X., Chen, Y., Chen, J., Du, X., Wang, K., Wen, J.R.:
+\newblock Entity set expansion via knowledge graphs.
+\newblock In: Proceedings of the 40th International ACM SIGIR Conference on
+  Research and Development in Information Retrieval. SIGIR '17, New York, NY,
+  USA, ACM (2017)  1101--1104
+
+\bibitem{zheng2017entity}
+Zheng, Y., Shi, C., Cao, X., Li, X., Wu, B.:
+\newblock Entity set expansion with meta path in knowledge graph.
+\newblock In: Pacific-Asia Conference on Knowledge Discovery and Data Mining,
+  Springer (2017)  317--329
+
+\end{thebibliography}

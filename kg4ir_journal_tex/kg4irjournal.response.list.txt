@@ -1,0 +1,9 @@
+We thank all the reviewers for their feedback. We have added the following information to the paper based on reviewer comments:
+
+1. All the code, the knowledge graph, and evaluation data and data tabulation scripts are now publicly available and linked in the paper.
+2. We have added a table (Table 5) to show that out of cases that a system is ranked 1st NVSE tends to be ranked as 2nd.
+3. We have expanded the dataset subsection in the experiments section to report properties of the KG. 
+4. We have expanded the discussion section about why BM25 performed so well in our task even though it does not perform as well on TREC entity list completion tasks. To address Reviewer 2 we believe that this was because of two reasons: 1) There was no auxiliary signals such as inter-entity relations and hyperlinks or different entity types to leverage in our ESE task since all entities were of type PERSON. This type of signal has been heavily used in entity list completion challenges to great effect but in ESE task such information is not given and 2) the ESE task is different from the traditional entity list completion task because of the lack of a string description of the concept unifying the entities. The human annotators are shown only the list of entities and then asked to rate the system results, therefore lexical overlap tends to be a strong baseline. 
+5. We have expanded the Word2Vecf method described in the paper. To address Reviewer 3’s question: all tokens in the sentence that mention an entity, except for some stop words, are used as contexts and not just co-occurrent entities. 
+6. We have expanded the description of the sOTA framework in section 4.4. We also mention collaborative filtering in the related work section to familiarize the reader how our unsupervised approach is different.
+

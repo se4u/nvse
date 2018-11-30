@@ -3,6 +3,23 @@
 This is the tensorflow implementation of NVSE for the paper: 
 “Neural Variational Entity Set Expansion for Automatically Populated Knowledge Graphs”, Pushpendre Rastogi, Adam Poliak, Vince Lyzinski and Benjamin Van Durme. 2018
 
+```
+@Article{Rastogi2018,
+  author="Rastogi, Pushpendre and Poliak, Adam and Lyzinski, Vince and Van Durme, Benjamin",
+  title="Neural variational entity set expansion for automatically populated knowledge graphs",
+  journal="Information Retrieval Journal",
+  year="2018",
+  month="Oct",
+  day="25",
+  issn="1573-7659",
+  doi="10.1007/s10791-018-9342-1",
+  url="https://doi.org/10.1007/s10791-018-9342-1"
+}
+```
+
+
+
+
 ## Commands 
 
 ```

@@ -17,7 +17,9 @@ This is the tensorflow implementation of NVSE for the paper:
 }
 ```
 
+### Demo Video (opens new tab on youtube)
 
+[![Everything Is AWESOME](https://img.youtube.com/vi/sGO_wvuPIzM/0.jpg)](https://www.youtube.com/watch?v=sGO_wvuPIzM "NVSE Demo")
 
 
 ## Commands 
